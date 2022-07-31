@@ -6,4 +6,4 @@ CSS ◻
 JAVASCRIPT ◻
 BOOTSTRAP 
 ## Demo
-<video src="preview.mp4" auto controls loop>
+<a href="https://purvisaini.github.io/CreateNotes/">access live website<a>
