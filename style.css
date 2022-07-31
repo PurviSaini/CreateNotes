@@ -1,0 +1,40 @@
+body {
+    font-size: x-large;
+    color: white;
+    background-image: url("bg.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    font-family: "Edu QLD Beginner";
+}
+
+.card-text,
+textarea {
+
+    font-family: 'Josefin Sans';
+    font-weight: 800;
+}
+
+.notesCard,
+#content {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.716);
+    border-radius: 30px;
+}
+
+h1,
+h2 {
+    text-decoration: underline;
+    font-weight: 900;
+
+}
+
+hr {
+    height: 7px;
+    background-color: white;
+}
+
+.card-title {
+    text-transform: uppercase;
+    color: rgb(189, 189, 255);
+}
